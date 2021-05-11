@@ -1,2 +1,2 @@
-# guardbot
-Discord guard bot
+# Discord Guard Bot
+    - Benden izinsiz paylaşanı görürsem telif atarım, `jail` komutu yakında!
